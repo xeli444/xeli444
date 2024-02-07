@@ -28,4 +28,12 @@
 
 [![widget](https://invidget.switchblade.xyz/revshit)](https://discord.gg/revshit)
 
+
+[![widget](https://invidget.switchblade.xyz/souraki)](https://discord.gg/souraki)
+
+
+
+
+
+
 </div>
