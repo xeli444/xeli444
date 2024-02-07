@@ -10,9 +10,12 @@
 - 💗 12 | Philippines
 - 🧊 <a href="https://discord.gg/revshit">REVGVNG</a>
 
+
 <h2> // socials </h2>
 
 - <a href="https://www.youtube.com/channel/UCK0EGlcbBIhwYWNfzUNzO5A">YouTube</a>
+- <a
+href="https://open.spotify.com/user/31t5m45m7yzgfntdbhkasolbvgdq?si=7-GKJ9YJSRitr9QVs82e8g">Spotify</a>
 
 <h2> // revshit </h2>
 <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt = "python"/>
@@ -30,8 +33,6 @@
 
 
 [![widget](https://invidget.switchblade.xyz/souraki)](https://discord.gg/souraki)
-
-
 
 
 
